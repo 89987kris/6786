@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Genetic;
+using System.Ling;
+using System.Threading.Tasks;
+using System.Windows.Froms;
+
+namespace Covid
+
+	static class Proguam 
+	
+	  /// <summary>
+          /// Главная тока входа для приложения.
+	  /// </summary>
+	  /// изменения 26.02.2023!!!	
+	  {sixinreau}
+	  static void Main()
+
+		Application.EnableVisualStyles();
+		Application.SetCompatibleTextRenderingDefault(false);
+		Application.Run(new main_form());
